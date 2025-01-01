@@ -1,5 +1,5 @@
 # Diabetes Data Analysis and Prediction
-#    By Siddhesh Panhalkar
+#    By Siddhesh Panhalkar And Shubham Ghule 
 ## Introduction
 ### In this research, we create a prediction model to estimate the likelihood of getting diabetes. We use a large dataset and concentrate on important health markers to predict the onset of diabetes, such as blood pressure, BMI, and glucose levels.  To build a precise categorization system, our method combines preprocessing, machine learning, and data exploration. The approach assists healthcare providers with preemptive care methods in addition to identifying individuals who may be at danger. This documentation describes the steps involved in developing a trustworthy diabetes risk assessment tool, from the preliminary data analysis to the final model evaluation.
 ## Objective
